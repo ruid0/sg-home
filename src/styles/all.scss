@@ -1,0 +1,7 @@
+// Make sure the charset is set appropriately
+@charset "UTF-8";
+
+@import "node_modules/ng2-material/source/core";
+$md-primary: md-palette($md-blue, 700, 100, 700, $md-contrast-palettes);
+$md-accent: md-palette($md-light-blue, 600, 100, 700, $md-contrast-palettes);
+@import "node_modules/ng2-material/source/components";

@@ -1,2 +1,3 @@
-# sg-home
-Web service for home needs
+#Curation platform for BandLab
+
+##Done with Angular2
