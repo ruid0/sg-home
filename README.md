@@ -1,3 +1,1 @@
-#Curation platform for BandLab
-
-##Done with Angular2
+#Home service
